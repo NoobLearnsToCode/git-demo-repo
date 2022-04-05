@@ -1,2 +1,2 @@
 # git-demo-repo
-Git repository to practice!
+Git repository to prafefe
